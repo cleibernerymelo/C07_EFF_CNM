@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D02_EF6_CF_V1", "D02_EF6_CF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E01_EF6_CF", "E01_EF6_CF\E01_EF6_CF.csproj", "{C31F98F2-B0C0-4BC0-8A80-6184661DD627}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E01_EF6_CF_BooksDB_Client", "E01_EF6_CF_BooksDB_Client\E01_EF6_CF_BooksDB_Client.csproj", "{4AF36DBA-12E4-4E03-8CD1-B740DFA97175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E01_EF6_CF_BooksDB_DAL", "E01_EF6_CF_BooksDB_DAL\E01_EF6_CF_BooksDB_DAL.csproj", "{C68B8F11-E75B-4365-9F44-0E76E1A21762}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{C31F98F2-B0C0-4BC0-8A80-6184661DD627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C31F98F2-B0C0-4BC0-8A80-6184661DD627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C31F98F2-B0C0-4BC0-8A80-6184661DD627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF36DBA-12E4-4E03-8CD1-B740DFA97175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF36DBA-12E4-4E03-8CD1-B740DFA97175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF36DBA-12E4-4E03-8CD1-B740DFA97175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF36DBA-12E4-4E03-8CD1-B740DFA97175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68B8F11-E75B-4365-9F44-0E76E1A21762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68B8F11-E75B-4365-9F44-0E76E1A21762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68B8F11-E75B-4365-9F44-0E76E1A21762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68B8F11-E75B-4365-9F44-0E76E1A21762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
